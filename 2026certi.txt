@@ -1,0 +1,256 @@
+1 Introduction to Data Engineering on AWS Data Sourcing and Storage 20260212.pdf
+1 of 7 Generative AI vs. Traditional AI NASBA revision 20260614.pdf
+1 of 7 Generative AI vs. Traditional AI revision 20260614.pdf
+2 of 7 Introduction to Large Language Models NASBA revision 20260614.pdf
+2 of 7 Introduction to Large Language Models PMI revision 20260614.pdf
+2 of 7 Introduction to Large Language Models revision 20260614.pdf
+3 of 7 Generative AI Working with Large Language Models 20260615.pdf
+3 of 7 Generative AI Working with Large Language Models NASBA 20260615.pdf
+5-part course Learn Vibe Coding Build Apps with AIPowered Coding 20260813 all.pdf
+5-part course Learn Vibe Coding Build Apps with AIPowered Coding 20260813.pdf
+A HandsOn Introduction to Hugging Face for Developers 20260121 li.pdf
+AI Data Pipelines with Spring revision 20260303 li.pdf
+AI Governance for Organizations Applying ISO IEC 38507-2022 20260323 li EN.pdf
+AI Governance for Organizations Applying ISOIEC 38507-2022 20260323 li EN.pdf
+AI Product Security Secure Architecture Deployment and Infrastructure 20260819.pdf
+AI Productivity with MCP How to Leverage MCP Servers with Claude 20260325 li EN.pdf
+AIDriven Threat Response with Microsoft Defender for Cloud 20260223 li.pdf
+API Testing Foundations 20260513 li.pdf
+AWS AI Automation Foundations Command Line Interface CLI with Amazon Q in AWS CloudShell 20260122 li.pdf
+AWS Certified Solutions Architect  Professional SAPC02 Cert Prep 20260417 li.pdf
+AWS Certified Solutions Architect Professional SAPC02 Cert Prep 20260417 li.pdf
+AWS Networking 20260204 li.pdf
+AWS for Developers Identity Access Management IAM 20260414 li.pdf
+AWS for Developers S3 20260108 li.pdf
+Advanced Bitbucket Pipelines Automating Deployments and Managing ThirdParty Integrations 3 of 3 20260402 li.pdf
+Advanced Data Engineering with Snowflake 20260427 li.pdf
+Advanced Python Practical Database Examples 20260226 li.pdf
+Agentic AI for Developers Concepts and Application for Enterprises 20260328 li.pdf
+Agile Foundations 1st of 6 20260108 IIBA.pdf
+Agile Foundations 1st of 6 20260108 PMI.pdf
+Agile Foundations 1st of 6 20260108 li.pdf
+Amazon EC2 Essential Training 20260107 li.pdf
+Apache Spark Essential Training Big Data Engineering 20260509 li.pdf
+Apply Ethical AI Principles Using the Responsible AI Dashboard 20260126 li.pdf
+Applying the Azure Well-Architected Framework 20260223 li.pdf
+Atlassian- Mistakes to Avoid in Agile Project Management 20260529 PMI.pdf
+Azure AI Services Essential Training 20260124 li.pdf
+Azure AI Services Essential Training 20260124.pdf
+Azure for Architects Security and Identity Management with Microsoft Entra 20260223 li.pdf
+Bitbucket Pipelines for CICD 2 of 3 20260401 li.pdf
+Build AI Agents and Chatbots with LangGraph 20260428 li.pdf
+Build REST APIs with FastAPI revision 20260507 li.pdf
+Build REST APIs with FastAPI revision 20260622.pdf
+Build a Microservice with Go 20260329 revision li.pdf
+Build with AI Beyond Pair Programming with AI 2 revision 20260813.pdf
+Build with AI Beyond Pair Programming with AI 20260623.pdf
+Build with AI Beyond Pair Programming with AI 4 of 5 20260623.pdf
+Build with AI Code Snippet Manager with Windsurf 20260529.pdf
+Build with AI Evaluation and Feedback Apps with LangChain and Hugging Face Spaces 20260430 li.pdf
+Build with AI Gradio for AI App Development 20260529.pdf
+Build with AI LLM-Powered Data Analysis App with Python and Streamlit 20260616.pdf
+Build with AI SQL AI Agents in Production 20260401 li.pdf
+Building AI Skills with Microsoft Copilot Lab 20260223 li.pdf
+Building AI-Powered Retail Search and Recommendations with Vertex AI Search for Commerce 20260518.pdf
+Building AIPowered Retail Search and Recommendations with Vertex AI Search for Commerce 20260518.pdf
+Building HighThroughput Data Microservices 20260303 li.pdf
+Building a Personalized Chatbot with OpenAI and LangChain 20260425 li.pdf
+Building with Google Gemini Advanced and Ultra 20260224 li.pdf
+Careers in Supply Chain and Operations 20260310 NASBA.pdf
+Careers in Supply Chain and Operations 20260310 li.pdf
+Certi 3-course Master Bitbucket 20260402 li.pdf
+Certi 3-course Master Bitbucket Pipelines 20260402 li.pdf
+Claude Code 101 From Prompt to Product 20260624.pdf
+Complete Guide to C Programming Foundations 20260407 li.pdf
+Computer Literacy for Mac 20260105 li.pdf
+Consuming RESTful APIs in Golang 20260119 li.pdf
+Container Security Project by Infosec 20260210 li.pdf
+Container Security Project by Infosec revision 20260408 li.pdf
+Continuous Integration and Continuous Delivery with GitLab 20260409 CompTIA.pdf
+Continuous Integration and Continuous Delivery with GitLab 20260409 li.pdf
+Copilot for Dynamics 365 for Sales and Customer Service 20260705.pdf
+Creating API Documentation 20260511 li.pdf
+Creating Agents with Python and the AI Toolkit for Visual Studio Code 20260625 EN.pdf
+Critical Thinking and Problem Solving 20260302 PMI.pdf
+Critical Thinking and Problem Solving 20260302 li.pdf
+Data Analysis with PostgreSQL 20260531.pdf
+Data Engineering Foundations 20260215 NASBA.pdf
+Data Engineering Foundations 20260215 li.pdf
+Data Engineering Project Build Streaming Ingestion Pipelines for Snowflake with AWS 20260427 li.pdf
+Data Pipeline Automation with GitHub Actions Using R and Python 20260608.pdf
+Deep Learning Getting Started 20260520.pdf
+Delivering DataDriven Decisions with AWS Applying Machine Learning Data Engineering and Generative AI 20260123 li.pdf
+Design Patterns for Rust 20260525.pdf
+Designing RESTful APIs 20260513 li.pdf
+Designing RESTful APIs revision 20260726 li.pdf
+Discover the Possibilities of Generative AI 20260223 li.pdf
+ETL and ELT in PostgreSQL 20260531.pdf
+Exploring Ktor with Kotlin Multiplatform and Compose 20260506 li.pdf
+Express Essentials Build Powerful Web Apps with Node.js p2 revision 20260322 li.pdf
+Finding a Job on LinkedIn 20260121 li.pdf
+From Tool to Teammates Working Smarter with AI 20260307 li.pdf
+Fundamentals of Agentic AI Business Implications and Ethical Insights 20260213 li.pdf
+Gemini in Google Slides 20260501 EN.pdf
+GenAI Foundations in Java Development 20260126 li.pdf
+Generative AI for Digital Marketers 20260223 li.pdf
+German Part 1 Basic Grammar and Everyday Vocabulary 20260105 li.pdf
+German Part 2 The Case System and Basic Syntax 20260126 li.pdf
+German Part 3 Building More Complex Sentences 20260203 li.pdf
+Getting Started with Claude 3 revision 20260223 li.pdf
+Getting into the Mind of the Hiring Manager 20260120 li.pdf
+GitHub Actions for CICD Build Test and Deploy 20260413 li.pdf
+GitHub Administration Cert Prep 20260110 li.pdf
+GitOps Foundations 20260320 li.pdf
+Google Cloud Platform Essential Training for Administrators 20260504 li.pdf
+HTTP Essential Training 20260221 li.pdf
+HandsOn AI OpenAI Realtime API for Voice Conversations 20260711.pdf
+HandsOn AI Vibe Coding in Python with Cursor 20260510 li.pdf
+HandsOn Generative AI with MultiAgent LangChain Building RealWorld Applications 20260426 li.pdf
+HandsOn Introduction SQL 20260408 li.pdf
+How to Use Generative AI Building an AIFirst Mindset 20260211 li.pdf
+Human Resources Payroll 20260114 HRCI.pdf
+Human Resources Payroll 20260114 SHRM.pdf
+Human Resources Payroll 20260114 li.pdf
+IAM Fundamentals with Okta 20260418 li.pdf
+Integrate Microsoft Graph in Your Applications 20260518 li.pdf
+Introduction to Amazon Redshift Data Management Essentials 20260210 li.pdf
+Introduction to Building Generative AI Java Applications using LangChain4j 20260430 li.pdf
+Introduction to IT Architecture 20260302 CompTIA.pdf
+Introduction to IT Architecture 20260302 li.pdf
+Introduction to Maven 20260606 revision.pdf
+Introduction to PostgreSQL 20260601.pdf
+Introduction to Prompt Engineering for Generative AI 20260224 li.pdf
+Introduction to Prompt Engineering for Generative AI Quiz 20260224 li.pdf
+Introduction to Scala 20260430 li.pdf
+Introduction to Spring AI 20260303 revision li.pdf
+Introduction to Terraform on Azure 20260810.pdf
+Introduction to Terraform on Azure Bicep 20260420 li.pdf
+Introduction to Web APIs 20260117 NASBA.pdf
+Introduction to Web APIs 20260117 revision li.pdf
+Java 14 21 Neue Features 20260602.pdf
+Java 25 for Professionals with Jetbrains AI Assistant 20260130 li.pdf
+JavaScript Closures 20260114 li.pdf
+JavaScript Prototypes 20260113 li.pdf
+Job Skills Supply Chain and Operations 20260309 NASBA.pdf
+Job Skills Supply Chain and Operations 20260309 li.pdf
+Kotlin Essential Training Functions Collections and IO 20260310 li.pdf
+Kotlin Essential Training ObjectOriented and Async Code revision 20260315 li.pdf
+Kubernetes GitOps with ArgoCD 20260320 li.pdf
+LLM Foundations Vector Databases for Caching and Retrieval Augmented Generation RAG 20260530.pdf
+Lean Six Sigma Foundations 20260310 NASBA.pdf
+Lean Six Sigma Foundations 20260310 PMI.pdf
+Lean Six Sigma Foundations 20260310 li.pdf
+Learn Java Cryptography 20260306 li.pdf
+Learn to Vibe Code with Lovable in 10 Minutes 20260613.pdf
+Learning Amazon Web Services AWS for Developers 20260111 li.pdf
+Learning Apache Tomcat 20260126 li.pdf
+Learning Asana 20260611.pdf
+Learning Bitbucket 1 of 3 20260401 li.pdf
+Learning ECMAScript 6 ES6 20260113 li revision.pdf
+Learning GitHub 20260307 li.pdf
+Learning Gradle 20260519.pdf
+Learning ITIL 20260302 CompTIA.pdf
+Learning ITIL 20260302 PMI.pdf
+Learning ITIL 20260302 li.pdf
+Learning Identity Governance 20260418 li.pdf
+Learning Jira Cloud Edition 1 of 4 20260408 li.pdf
+Learning Linux Command Line 20260318 li.pdf
+Learning Microsoft Dynamics 365 The Basics 20260313 li.pdf
+Learning Microsoft Dynamics 365 The Basics revision 20260704.pdf
+Learning Microsoft SQL Server 2022 20260314 li.pdf
+Learning Next.js 20260113 li.pdf
+Learning OpenShift 20260606.pdf
+Learning Quarkus (Microprofile) 20260104 li.pdf
+Learning SAP HCM Human Capital Management 20260114 revision li.pdf
+Learning SAP MM Materials Management revision 20260119 li.pdf
+Learning SAP Sales and Distribution SD Module revision 20260119 li.pdf
+Learning Terraform 20260419 li.pdf
+Learning Vue.js 20260525 revision.pdf
+Learning Zoho CRM 20260603.pdf
+Learning the JavaScript Language 20260119 li.pdf
+Learning the OWASP Top 10 20260606.pdf
+Level Up PostgreSQL Queries 20260603.pdf
+Level up LLM applications development with LangChain and OpenAI 20260304 li.pdf
+Machine Learning Foundations Linear Algebra 20260527.pdf
+Master NotebookLM Build Your Own AI Research Assistant No Code Required 20260628.pdf
+Mastering Project Management with Asana 20260611 PMI.pdf
+Mastering Project Management with Asana 20260611.pdf
+Microsoft 365 Copilot Helpful Tips for Marketers 20260223 li.pdf
+Microsoft 365 Copilot Shorts 20 Skills in 20 Minutes 20260629.pdf
+Microsoft Azure Fundamentals AZ900 Cert Prep 4Hrs by Microsoft Press 20260411 li.pdf
+Microsoft Azure Networking Concepts 20260408 li.pdf
+Microsoft Cybersecurity Architect SC100 Cert Prep by Microsoft Press 20260518 li.pdf
+Microsoft Dynamics 365 Sales Essential Training 20260705.pdf
+Model Context Protocol MCP HandsOn with Agentic AI 20260524.pdf
+Modern Cpp Lambdas 20260514 li.pdf
+Monitoring and Observability with Datadog 20260502 PMI.pdf
+Monitoring and Observability with Datadog 20260502 li.pdf
+Nano Tips for Building a Supportive Network with Gemma Tatiana and Erin 20260223 li.pdf
+Nano Tips for Demonstrating Your Transferable Skills with Diana YK Chan 20260223 li.pdf
+Nano Tips for FutureProofing Your Career with AI with Piers Linney 20260223 li.pdf
+Nano Tips for a Pitch That Persuades without Pressure with Alex James 20260223 li.pdf
+Nano Tips to Use AI to Be a More Effective Manager with Ashley Herd 20260223 li.pdf
+Negotiation Shorts Fast Skills for Stronger Conversations 20260705.pdf
+NextLevel AI Capabilities in Anthropics Claude 3.5 20260223 li.pdf
+Node.js Essential Training 20260520 revision.pdf
+Node.js Essential Training p1 20260321 li.pdf
+Node.js Essential Training p1 revision 20260321 li.pdf
+Node.js Security 20260519.pdf
+NumPy Essential Training 1 Foundations of NumPy 20260526 revision.pdf
+PHP for WordPress 20260820.pdf
+Practical GitHub Actions 1 of  20260608.pdf
+Practical GitHub Project Management and Collaboration 20260307 li.pdf
+Pricing Strategy ValueBased Pricing 20260524.pdf
+Programming Foundations Numerical Mathematics and Calculations 20260526.pdf
+Programming in Windsurf and MCP 20260528.pdf
+Programming with Go Modules 20260328 li.pdf
+Programming with the Gemini Flash API revision 20260224 li.pdf
+Project Management Foundations Communication 20260511 NASBA.pdf
+Project Management Foundations Communication 20260511 PMI.pdf
+Project Management Foundations Communication 20260511 li.pdf
+Project Management Foundations Requirements 20260511 PMI.pdf
+Project Management Foundations Requirements 20260511 li.pdf
+Project Management in Zoho Projects 20260604 NASBA.pdf
+Project Management in Zoho Projects 20260604 PMI.pdf
+Project Management in Zoho Projects 20260604 li.pdf
+Python Data Structures Stacks Deques and Queues 20260226 li.pdf
+Python Quick Start 20260620.pdf
+Quarkus Essential Training 20260606 CompTIA.pdf
+Quick Start Guide to SQL 20260409 li.pdf
+Reinforcement Learning Foundations 20260520.pdf
+Running Jenkins on AWS Deploying and Managing Jenkins on Cloud Infrastructure 20260414 li.pdf
+Rust Essential Training 20260517 li.pdf
+Rust Essential Training 20260517.pdf
+SAP Business One Essential Training 20260730.pdf
+SAP SuccessFactors Performance and Goals Management 20260115 li.pdf
+SQL Server Integration Services 20260514 li.pdf
+SQL for Data Analysis 20260331 li EN.pdf
+Scala Essential Training 20260205 li.pdf
+Scrum The Basics 20260530 PMI.pdf
+Secrets of Effective Prioritization 20260616.pdf
+Secure Coding in Java 20260131 li.pdf
+Secure Coding in Java 20260607.pdf
+Securing Generative AI Strategies Methodologies Tools and Best Practices 20260818.pdf
+Software Architecture DomainDriven Design 20260311 li.pdf
+Software Architecture From Developer to Architect 20260315 li.pdf
+Software Is Eating Your Car 20260501 li.pdf
+Software Testing Foundations Continuous Testing and DevOps 20260413 li.pdf
+Spring Boot Observability Deep Dive into Logging Metrics and Tracing 20260303 li.pdf
+Structure Vibe Coding to Save Build Time 2 of 5 20260813.pdf
+Structured Vibe Coding with AI Coding Agents 5 of 5 20260813.pdf
+Supply Chain Foundations 20260409 PMI.pdf
+Supply Chain Foundations 20260409 li.pdf
+Ten Questions to Ask in Informational Interviews 20260421 li.pdf
+Test Automation Foundations 20260413 li.pdf
+The Power of PreViz at BMW Group DesignworksUSA 20260501 li.pdf
+The StepbyStep Guide to Rock Your Job Interview 20260120 li.pdf
+Transition from Java to Go 20260327 li.pdf
+Unboxing AI Visual Studio Code and GitHub Copilot Deep Dive 20260625.pdf
+Understanding Logistics 20260309 li.pdf
+Vibe Code Your Way to a Full Stack App with Bolt 20260528.pdf
+Vibe Code Your Way to a Full Stack App with Bolt 3 of 5 20260528.pdf
+Vibe Coding Fundamentals Tools and Best Practices 1 of 5 20260813.pdf
+Vue.js Testing and Debugging 20260525.pdf
+Windsurf for PrivacyConscious Development 20260102 li.pdf
+XML Essential Training 20260117 li.pdf
+gRPC in Go 20260327 li.pdf

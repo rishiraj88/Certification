@@ -1,0 +1,177 @@
+03 of 08 Learning Microsoft 365 Copilot for Work 2024 20250911 li.pdf
+20240426 Visual Studio Code Productivity Tips linkedin.pdf
+20240626 AWS Billing and Cost Management Simplilearn.pdf
+20240626 Introduction to Data Analytics Simplilearn.pdf
+20240701 Google Cloud Digital Leader Cert Prep 1 Digital Transformation with Google Cloud.pdf
+20240702 Building RESTful APIs with Node.js and Express.pdf
+20240702 Node.js Securing RESTful APIs.pdf
+20240710 AWS Certified Cloud Practitioner CLFC02 Cert Prep 1 Cloud Concepts.pdf
+20240710 AWS Certified Cloud Practitioner CLFC02 Cert Prep.pdf
+20240711 TypeScript Essential Training.pdf
+20240714 Learning Go (Golang).pdf
+20240715 Kubernetes Monitoring with Prometheus and Grafana.pdf
+20240716 Red Hat Certified Engineer EX294 Cert Prep 1 Foundations of Ansible.pdf
+20240717 Building Chatbots Using Google Dialogflow.pdf
+20240717 Building Serverless Applications in AWS.pdf
+20240717 Data Analytics with Google Cloud BigQuery and Looker Studio.pdf
+20240719 Build an Ecommerce Site in 30 Minutes with Shopify WooCommerce Squarespace and Wix.pdf
+20240719 SEO Foundations NASBA.pdf
+20240719 SEO Foundations linkedin.pdf
+20240720 Prepare for the Databricks Certified Data Engineer Associate Certification.pdf
+20240724 Learning Next.js.pdf
+20240725 PostgreSQL Essential Training.pdf
+20240725 Using MongoDB with Node.js.pdf
+20240726 How Leaders Drive Results and Resolve Conflict in a Hybrid Workplace PMI.pdf
+20240726 How Leaders Drive Results and Resolve Conflict in a Hybrid Workplace.pdf
+20240726 Kubernetes Microservices.pdf
+20240727 Advanced Terraform.pdf
+20240728 Java Design Patterns Creational.pdf
+20240728 Java Design Patterns Structural.pdf
+20240728 Parallel and Concurrent Programming with Java 1.pdf
+20240729 Advanced Docker Automation with AWS CDK.pdf
+20240729 Building a Server with TypeScript and GraphQL.pdf
+20240729 GraphQL Essential Training.pdf
+20240731 AWS Certified Cloud Practitioner CLFC02 Cert Prep 2 Security and Compliance.pdf
+20240731 AWS Certified Cloud Practitioner CLFC02 Cert Prep 3 Cloud Technology and Services.pdf
+20240731 Nano Tips for Developing Magnetic Charisma with Shade Zahrai.pdf
+20240801 AWS Certified Cloud Practitioner CLFC02 Cert Prep 4 Billing Pricing And Support.pdf
+20240803 Kubernetes Cloud Native Ecosystem.pdf
+20240803 Learning Kubernetes.pdf
+20240804 Kubernetes Essential Tools.pdf
+20240805 Angular Essential Training.pdf
+20240806 Java Serverless Applications on AWS.pdf
+20240809 Cert Prep Scrum Master NASBA.pdf
+20240809 Cert Prep Scrum Master PMI.pdf
+20240809 Cert Prep Scrum Master.pdf
+20240810 AWS and React Creating FullStack Apps.pdf
+20240810 Introduction to AWS AI Services for Developers.pdf
+20240812 Apache Spark Essential Training Big Data Engineering 03.pdf
+20240812 Introduction to Spark SQL and DataFrames.pdf
+20240812 Top Features of Java 21.pdf
+20240817 JavaScript Essential Training.pdf
+20240820 Foundations of Enterprise Content Management (CMS).pdf
+20240820 Google Cloud Platform GCP Essential Training for Developers.pdf
+20240821 Android Development Essential Training 1 Your First App.pdf
+20240821 Java Algorithms.pdf
+20240823 Essentials Build Powerful Web Apps with Node.js.pdf
+20240823 Node.js Essential Training.pdf
+20240825 Transitioning from Java to Kotlin.pdf
+20240827 Advanced Java Threads and Concurrency.pdf
+20240827 The SPIN Selling Methodology.pdf
+20240828 Everybodys Introduction to Tableau 2022.pdf
+20240828 Managing Projects with Microsoft 365 PMI.pdf
+20240828 Managing Projects with Microsoft 365.pdf
+20240829 Learning Static Code Analysis AzureDevOps Checkov.pdf
+20240830 Learning FullStack JavaScript Development MongoDB Node and React.pdf
+20240831 ESLint Customizing Styles.pdf
+20240831 Learning ECMAScript 6 ES6.pdf
+20240904 Introduction to Credit.pdf
+20240904 Java Design Patterns Behavioral Part 1.pdf
+20240906 Java Design Patterns Behavioral Part 2.pdf
+20240911 Oracle Database 12c Basic SQL.pdf
+20240912 TypeScript for JavaScript Developers.pdf
+20240914 SAP S4HANA Essential Training.pdf
+20240915 TypeScript Design Patterns.pdf
+20240916 CertificateOfCompletion_Governance Risk and Compliance GRC for the CloudNative Revolution.pdf
+20240916 Ethical HumanCentric AI Design.pdf
+20240916 Introduction to Spring AI.pdf
+20240920 Build Spring Boot Apps with the Kotlin Programming Language.pdf
+20240921 Oracle Database 12c Advanced SQL.pdf
+20240925 SAP ERP Essential Training.pdf
+20240926 Learning SAP MM Materials Management PMI.pdf
+20240926 Learning SAP MM Materials Management.pdf
+20240927 Learning SAP Sales and Distribution SD Module.pdf
+20240928 Learning SAP Human Capital Management.pdf
+20240929 Fiori Reports and Embedded Analytics in SAP S4HANA.pdf
+20240929 Interpersonal Communication NASBA.pdf
+20240929 Interpersonal Communication.pdf
+20240929 Learning SAP Production Planning.pdf
+20240929 Python Essential Training.pdf
+20240930 RHCE Red Hat Certified Engineer EX294 Cert Prep 2 Using Ansible Playbooks.pdf
+20241001 AWS Certified Machine Learning Specialty MLSC01 Cert Prep 1 Data Engineering AWS AI ML.pdf
+20241001 AWS Certified Machine Learning Specialty MLSC01 Cert Prep 2 Exploratory Data Analysis EDA.pdf
+20241001 AWS Certified Machine Learning Specialty MLSC01 Cert Prep 3 Modeling ML Model.pdf
+20241001 AWS Certified Machine Learning Specialty MLSC01 Cert Prep 4 Machine Learning Implementation and Operations MLOps.pdf
+20241001 AWS Certified Machine Learning Specialty MLSC01 Cert Prep ML Models EDA MLOps.pdf
+20241001 Java Refactoring Best Practices.pdf
+AI Pair Programming with GitHub Copilot linkedin 20240228.pdf
+AWS Essential Training for Developers linkedin 20240229.pdf
+Advanced Spring Application Events 20240314.pdf
+Agile Software Development Transforming Your Organization PMI 20240303.pdf
+Apache Kafka Essential Training Building Scalable Applications 20240315.pdf
+Apache Kafka Essential Training Getting Started 20240315.pdf
+Apache Kafka Essential Training Getting Started 20240317 20250717 li.pdf
+Asking Great Sales Questions linkedin 20240226.pdf
+Backgrounder Leadership Conversations with Different Personalities 20240315 PMI.pdf
+Build a Faster More Structured Express API with Node.js and TypeScript 20240401.pdf
+Build a FullStack JavaScript Application Using AWS Amplify 20240410.pdf
+Build and Deploy Containerized Apps with GitHub Actions 20240408.pdf
+Building Modern Projects with React linkedin 20240304.pdf
+Cert Prep 12Hours AWS Certified Developer Associate DVAC02 20240308.pdf
+Choosing a Database PostgreSQL MySQL Mongo and Cloud linkedin 20240301.pdf
+Creating a Dev Environment in AWS with Terraform 20240330.pdf
+Deploying Java Applications to AWS 20240405.pdf
+Docker for Developers linkedin 20240227.pdf
+Docker for Java Developers 20240312.pdf
+Excel VLOOKUP and XLOOKUP for Beginners 20240419.pdf
+Getting Started with Microsoft Azure 20240125 li.pdf
+Getting Started with Microsoft Azure linkedin 20240125.pdf
+Gradle for JavaBased Applications and Libraries 20240226.pdf
+Gradle for JavaBased Applications and Libraries linkedin 20240226.pdf
+HandsOn AI Introduction to RetrievalAugmented Generation RAG revised 20241111 li.pdf
+High Performance Habits Blinkist Summary linkedin 20240226.pdf
+How to Confidently Negotiate Your Salary linkedin 20240229.pdf
+How to Find Fulfillment in Your Work with Job Crafting linkedin 20240224.pdf
+Introduction to Data Science 20240309 PMI.pdf
+Introduction to Generative Adversarial Networks GANs 20240331.pdf
+Introduction to PostgreSQL linkedin 20240229.pdf
+Introduction to Terraform on Google Cloud Platform 20240408.pdf
+Introduction to Web APIs NASBA 20240227.pdf
+Introduction to Web APIs linkedin 20240227.pdf
+JSON Essential Training 20240329.pdf
+Java Advanced Concepts for HighPerformance Development linkedin 20240224.pdf
+Java Data Structures linkedin 20240130.pdf
+Java Frameworks Quarkus vs. Spring 20240315.pdf
+Java Lambdas and Streams linkedin 20240129.pdf
+Java Persistence with JPA 20240329.pdf
+Java Profiling 20240405.pdf
+Java Testing with JUnit linkedin 20240228.pdf
+Kotlin Essential Training Functions Collections and IO 20240425.pdf
+Learning Amazon Web Services Lambda 20240319.pdf
+Learning Ansible 20240414.pdf
+Learning Docker Compose linkedin 20240228.pdf
+Learning Git and GitHub 2021 linkedin 20240226.pdf
+Learning GitHub Actions 20240408.pdf
+Learning Gradle linkedin 20240127.pdf
+Learning Jenkins linkedin 20240227.pdf
+Learning SAP MM Materials Management 20240926 revised.pdf
+Learning Spring 6 with Spring Boot 3 linkedin 20240304.pdf
+Learning Static Code Analysis AzureDevOps Checkov 20240829.pdf
+Learning Terraform 20240330.pdf
+Negotiation Foundations 20240322 NASBA.pdf
+Overcoming Cognitive Bias 10q 20240218.pdf
+Overcoming Cognitive Bias linkedin 20240218.pdf
+Professional Networking NASBA 20240305.pdf
+Python Quick Start NASBA 20240308.pdf
+React Creating and Hosting a FullStack Site 20240407.pdf
+React ServerSide Rendering 20240305.pdf
+React Using TypeScript 20240331.pdf
+React.js Essential Training linkedin 20240303.pdf
+Running Kubernetes on AWS EKS 20240322.pdf
+SAP S4HANA Essential Training 20240914 revised.pdf
+Spring Boot Test-Driven Development 20240314.pdf
+Spring Boot and React Build Scalable and Dynamic Web Apps linkedin 20240304.pdf
+Spring Data 20240329.pdf
+Spring Spring MVC linkedin 20240301.pdf
+Spring Spring Security 20240314.pdf
+Spring with Spring Integration 20240401.pdf
+Tech Recruiting Foundations 5 Waterfall Agile and DevOps for Recruiters 20240419.pdf
+The New Rules of Work PMI 20240305.pdf
+Time Management Fundamentals NASBA 20240414 linkedin_.pdf
+Time Management Fundamentals PMP 20240227.pdf
+Time Management Fundamentals linkedin 20240227.pdf
+Transition from Java to Golang 20240419.pdf
+TypeScript for Node.js Developers 20240331.pdf
+Using MongoDB with Java 20240327.pdf
+linkedin CertificateOfCompletion_Asking Great Sales Questions 20240402 _ .pdf
+linkedin CertificateOfCompletion_Asking Great Sales Questions NASBA 20240402 _ .pdf
